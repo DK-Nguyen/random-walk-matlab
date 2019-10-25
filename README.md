@@ -1,4 +1,4 @@
-﻿# Random Walk
+﻿# Random Walk GUI App with Matlab App Designer
  ![](randomWalk.png)
 ## Minimum Requirements
 1. - [x] A Start/Stop button for starting and stopping the animation.

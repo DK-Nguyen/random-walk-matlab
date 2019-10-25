@@ -1,5 +1,5 @@
 ﻿# Random Walk
- ![randomWalk.png] 
+ ![](randomWalk.png)
 ## Minimum Requirements
 1. - [x] A Start/Stop button for starting and stopping the animation.
 2. - [x] Static text fields for printing the x- and y-coordinates of the current location.

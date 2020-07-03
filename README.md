@@ -1,5 +1,5 @@
 # Random Walk GUI App with Matlab App Designer
-![](randomWalk.png)
+![](randomWalk.png)  
 A GUI app to simulate the random walk in 2D and 3D space.
 ## Features
 1. - [x] A Start/Stop button for starting and stopping the animation.
